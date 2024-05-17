@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Expressjs MongoDB Golang**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-red-tau.vercel.app]([https://my-portfolio-red-tau.vercel.app](https://new-por.vercel.app))
+- 👨‍💻 All of my projects are available at [https://new-por.vercel.app]
 
 - 📫 How to reach me **mohamadamy44@gmail.com**
 
