@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamad44p&label=Profile%20views&color=0e75b6&style=flat" alt="mohamad44p" /> </p>
 
-- 🌱 I’m currently learning **Expressjs MongoDB Golang**
+- 🌱 I’m currently learning ** Golang**
 
 - 👨‍💻 All of my projects are available at [https://new-por.vercel.app]
 
