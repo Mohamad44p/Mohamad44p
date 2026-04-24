@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<a href="https://github.com/mohammad-abu-omar">
+<a href="https://github.com/Mohamad44p">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Mohammad%20Abu%20Omar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI%20Full-Stack%20Engineer%20%7C%20Founder%20of%20Billix&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 </a>
 
@@ -15,13 +15,13 @@
   <a href="mailto:mohamadamy44@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://mohammad-ab.vercel.app">
+  <a href="https://mohammad-profile.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-<a href="https://github.com/mohammad-abu-omar">
-  <img src="https://komarev.com/ghpvc/?username=mohammad-abu-omar&label=Profile%20views&color=5B5BD6&style=flat-square" alt="profile views" />
+<a href="https://github.com/Mohamad44p">
+  <img src="https://komarev.com/ghpvc/?username=Mohamad44p&label=Profile%20views&color=5B5BD6&style=flat-square" alt="profile views" />
 </a>
 
 </div>
@@ -128,16 +128,16 @@ const mohammad = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammad-abu-omar&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5B5BD6&icon_color=5B5BD6&text_color=C9D1D9" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-abu-omar&layout=compact&hide_border=true&bg_color=0D1117&title_color=5B5BD6&text_color=C9D1D9&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamad44p&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5B5BD6&icon_color=5B5BD6&text_color=C9D1D9" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad44p&layout=compact&hide_border=true&bg_color=0D1117&title_color=5B5BD6&text_color=C9D1D9&langs_count=8" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammad-abu-omar&hide_border=true&background=0D1117&stroke=5B5BD6&ring=5B5BD6&fire=5B5BD6&currStreakLabel=5B5BD6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamad44p&hide_border=true&background=0D1117&stroke=5B5BD6&ring=5B5BD6&fire=5B5BD6&currStreakLabel=5B5BD6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-abu-omar&bg_color=0D1117&color=C9D1D9&line=5B5BD6&point=5B5BD6&area=true&hide_border=true" alt="activity graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamad44p&bg_color=0D1117&color=C9D1D9&line=5B5BD6&point=5B5BD6&area=true&hide_border=true" alt="activity graph" width="95%" />
 </div>
 
 ---
