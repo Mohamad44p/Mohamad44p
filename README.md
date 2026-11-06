@@ -1,159 +1,94 @@
 <div align="center">
 
-<!-- Animated header -->
-<a href="https://github.com/Mohamad44p">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Mohammad%20Abu%20Omar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI%20Full-Stack%20Engineer%20%7C%20Founder%20of%20Billix&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
-</a>
+<a href="https://abuomar.dev"><img src="assets/banner.jpeg" width="100%" alt="Issue #1 — The One-Man Studio, starring Mohammad Abu Omar, AI full-stack engineer in Dubai. Read it at abuomar.dev" /></a>
 
-<p>
-  <a href="https://billix.io">
-    <img src="https://img.shields.io/badge/Building-Billix.io-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=5B5BD6" alt="Billix" />
-  </a>
-  <a href="https://linkedin.com/in/mohammad-abu-omar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mohamadamy44@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://mohammad-profile.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<a href="https://github.com/Mohamad44p">
-  <img src="https://komarev.com/ghpvc/?username=Mohamad44p&label=Profile%20views&color=5B5BD6&style=flat-square" alt="profile views" />
-</a>
+<a href="https://abuomar.dev"><img src="assets/btn-site.png" height="52" alt="abuomar.dev" /></a> <a href="https://www.linkedin.com/in/mohammad-abuomar-0878772a1"><img src="assets/btn-linkedin.png" height="52" alt="LinkedIn" /></a> <a href="mailto:mohamadamy44@gmail.com"><img src="assets/btn-email.png" height="52" alt="Email me" /></a> <a href="https://tweenui.dev"><img src="assets/btn-tween.png" height="52" alt="tweenui.dev" /></a>
 
 </div>
 
 <br />
 
-## 🧬 whoami
+<img src="assets/previously.png" width="720" alt="Previously… a kid on an old family computer, age 14. Now: an AI full-stack engineer in Dubai who builds whole products on his own — backend, web, Mac and iPhone — then animates the frames in between." />
 
-```ts
-const mohammad = {
-  role:       "Senior AI Full-Stack Engineer",
-  founder:    "Billix.io — AI agents & workflow automation",
-  location:   "Hebron, Palestine 🇵🇸",
-  focus:      ["AI Agents", "Computer-Use Agents", "Developer Tools"],
-  stack:      ["TypeScript", "Next.js", "Convex", "Rust", "Python"],
-  currently:  "Shipping Billix's desktop Computer-Use Agent",
-  languages:  ["العربية", "English"],
-  funFact:    "I run competing agent plans and let Claude pick the winner.",
-};
-```
+<br />
 
----
+<img src="assets/h-now.png" height="58" alt="Now showing" />
 
-## 🚀 Currently Building
+**[abuomar.dev](https://abuomar.dev)** — my portfolio is a 3D comic-book city at dusk. Scroll and the camera flies down the street; every building is one of my crafts, and every door opens a playable comic panel. Built with Next.js, React Three Fiber, a hand-written comic shader and GSAP — in English and Arabic.
+
+<a href="https://abuomar.dev"><img src="assets/city.gif" width="100%" alt="Riding down the street of the comic city at abuomar.dev" /></a>
+
+<br />
+
+<img src="assets/h-street.png" height="58" alt="The street" />
+
+<a href="https://abuomar.dev"><img src="assets/street.jpeg" width="100%" alt="Ten buildings, ten crafts: Home, Design, Frontend, Motion, Tween, Templates, 3D, AI, Full stack and Contact" /></a>
+
+<br />
+
+<img src="assets/h-built.png" height="58" alt="What I've built" />
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### [Billix.io](https://billix.io)
-**AI agent & automation platform** — a prompt-first alternative to Zapier, n8n, and Make.
+### OVO — ERP & Imagine
+<sub><b>Solo engineer · Jan 2026 — now · Dubai</b></sub>
 
-- 🤖 **200+ AI models** — Anthropic, OpenAI, Google, DeepSeek, Groq, xAI
-- 🖥️ **Computer-Use Agent** — Electron shell + Rust sidecar over JSON-RPC
-- 🔍 **Deep Search** — multi-step research pipelines
-- 📚 **Enterprise RAG** — knowledge retrieval for teams
-- 🎙️ **Voice mode** — Deepgram Nova-3 + OpenAI TTS
+The only engineer at a fashion manufacturer making collections for 19+ brands. I built its **ERP end to end — 43 modules, 11,000+ commits** — and **Imagine**, its AI image and video studio: plain garment photos in, campaign images and multi-shot films out.
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### Recent Work
-- ⚙️ Lean **4-tool LLM contract** for the CUA
-- 🧠 **Resumable state machines** with lane-aware stable IDs
-- 🟢🟡🔴 Green/yellow/red **safety classification** system
-- 📦 Shared `@billix/voice-core` FSM package
-- 💳 Stripe **invoice-based billing** w/ prompt caching fixes
-- 🧪 Parallel **sub-agent orchestration** ("Massive Swarm Compute")
+### Storm
+<sub><b>Creator · sole engineer · 2026</b></sub>
 
-    </td>
-  </tr>
+A team of AI bots that run a business's inbox, sales, invoices and reports. The bots have their **own email and phone number** and **1,400+ app connections** — on Mac, iPhone, web and cloud.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Tween](https://tweenui.dev)
+<sub><b>Creator · maintainer · 2026 — now</b></sub>
+
+A live library of **138 animated React components** and full landing-page templates — Three.js, React Three Fiber, GSAP, Framer Motion — each one shadcn command to install.
+
+</td>
+<td width="50%" valign="top">
+
+### [Billix](https://billix.io)
+<sub><b>Founder · AI engineer · 2025 — 2026</b></sub>
+
+An AI agent platform with **200+ models**: a desktop computer-use agent (Electron + a Rust sidecar), real-time voice mode, Deep Search, RAG and a workflow builder you drive with prompts.
+
+</td>
+</tr>
 </table>
 
----
+<sub>Before that: AI engineer at Rivalz Network (2024) · full-stack developer at Raydian (2023) · 15+ freelance web apps (2022) · first line of code at 14.</sub>
 
-## 🧰 Tech Stack
+<br />
 
-<div align="center">
+<img src="assets/h-toolkit.png" height="58" alt="The toolkit" />
 
-**Languages**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<img src="assets/toolkit.png" width="100%" alt="Front: React, Next.js, React Native · Expo, Electron, Tailwind, GSAP, Three.js. Behind: Node.js, Bun, Hono, Convex, PostgreSQL, Drizzle, Redis. Underneath: Vercel, Fly.io, Cloudflare, Docker, GitHub Actions. Inside: AI agents, MCP, RAG, voice, computer use, evals." />
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
-![TanStack Query](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+<br />
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<img src="assets/h-numbers.png" height="58" alt="The numbers" />
 
-**DevOps & Tooling**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+<img src="assets/stats.svg" width="100%" alt="My GitHub contributions over the last 12 months, redrawn every day" />
 
-**Auth & Billing**  
-![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=flat-square)
-![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+<br />
 
-</div>
+<img src="assets/h-signal.png" height="58" alt="Send a signal" />
 
----
+**Available now** · UAE residence visa · Dubai. If you've got something that needs to move, write to me.
 
-## 📊 GitHub Stats
+<a href="mailto:mohamadamy44@gmail.com"><img src="assets/btn-email.png" height="52" alt="Email me" /></a> <a href="https://www.linkedin.com/in/mohammad-abuomar-0878772a1"><img src="assets/btn-linkedin.png" height="52" alt="LinkedIn" /></a> <a href="https://abuomar.dev/cv/mohammad-abu-omar-comic.pdf"><img src="assets/btn-cv.png" height="52" alt="Download the comic CV (PDF)" /></a> <a href="https://abuomar.dev"><img src="assets/btn-site.png" height="52" alt="abuomar.dev" /></a>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamad44p&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5B5BD6&icon_color=5B5BD6&text_color=C9D1D9" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamad44p&layout=compact&hide_border=true&bg_color=0D1117&title_color=5B5BD6&text_color=C9D1D9&langs_count=8" alt="top langs" />
-</div>
+<br />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamad44p&hide_border=true&background=0D1117&stroke=5B5BD6&ring=5B5BD6&fire=5B5BD6&currStreakLabel=5B5BD6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamad44p&bg_color=0D1117&color=C9D1D9&line=5B5BD6&point=5B5BD6&area=true&hide_border=true" alt="activity graph" width="95%" />
-</div>
-
----
-
-## 📫 Let's Connect
-
-I'm always down to talk about **AI agents**, **computer-use**, **DX**, or the messy realities of **shipping LLM products**.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-Mohammad%20Abu%20Omar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-abu-omar)
-[![Email](https://img.shields.io/badge/-mohamadamy44@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadamy44@gmail.com)
-[![Billix](https://img.shields.io/badge/-billix.io-5B5BD6?style=for-the-badge&logoColor=white)](https://billix.io)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="footer" />
-</div>
+<div align="center"><sub>Issue #1 of <a href="https://abuomar.dev">The One-Man Studio</a> · drawn in Dubai · the numbers redraw themselves every day</sub></div>
